@@ -1,0 +1,34 @@
+.keys{
+    flex-direction:row;
+    justify-content:space-evenly;
+    gap:10px;
+}
+
+.keys__box{
+    width:25%;
+}
+
+.keys .container--ilustration{
+    bottom:-420px;
+}
+
+.item{
+    width:calc((100% / 5) - 0.8px);
+    align-items:flex-start;
+    max-width:600px;
+    min-width:160px;
+}
+
+.item__content{
+    width:91%;
+}
+
+.container__section2 .box .box__news .robot__box .robot--img{
+    left:70px;
+    bottom:85px;
+}
+
+.features__container{
+    justify-content: flex-start;
+    gap:0;
+}
